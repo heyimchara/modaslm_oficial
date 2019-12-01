@@ -111,6 +111,10 @@ ON DELETE CASCADE ON UPDATE CASCADE
 
 INSERT INTO cliente VALUES (1,"Modas LM","modaslm@gmail.com","123","50366664883",'2003-06-09',"F","admin");
 
+-- user
+
+INSERT INTO cliente VALUES (2,"Modas","modas@gmail.com","123","50366664883",'2003-09-06',"F","user");
+
 -- PROCEDURE
 
 -- faturamento semanal
